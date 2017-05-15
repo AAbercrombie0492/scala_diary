@@ -3,6 +3,7 @@ Archiving my ascent up the stairway to Scala heaven.
 
 ## Setup
 1. Setup Scala
+
   A) Download
   ```bash
   wget https://downloads.lightbend.com/scala/2.12.2/scala-2.12.2.tgz
